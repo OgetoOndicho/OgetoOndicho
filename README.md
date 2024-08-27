@@ -3,8 +3,7 @@ My name is Gifton Ogeto Ondicho
 - I’m currently learning Python in efforts to become an accomplished Data Scientist.
 - 💞️ I’m an open minded individual who is more than ready to learn and collaborate with other professionals in the data career space.
 - 📫 How to reach me: Connect on X @igottobegreat
-- 😄 Pronouns: Him
-- ⚡ Fun fact: I am just a simple guy. No complications!
+  [![Ogeto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogetoondicho)](https://github.com/ogetoondicho/github-readme-stats)
 
 <!---
 OgetoOndicho/OgetoOndicho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
