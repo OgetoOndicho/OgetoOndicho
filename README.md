@@ -1,8 +1,18 @@
-My name is Gifton Ogeto Ondicho
-- I am a Statistician and Data Analyst who is passionate at deriving meaningful insights from data to solve challenges.
-- I’m currently learning Python in efforts to become an accomplished Data Scientist.
-- 💞️ I’m an open minded individual who is more than ready to learn and collaborate with other professionals in the data career space.
-- 📫 How to reach me: Connect on X @igottobegreat
+### Hi there 👋, my name is Gifton Ondicho Ogeto
+
+#### I am a Statistician and a Data Scientist
+![I am a Statistician and a Data Scientist](https://pbs.twimg.com/profile_banners/842702900560322560/1724741531/600x200)
+
+- I am a Statistician and Data Analyst who is passionate at deriving meaningful insights from data to solve challenges. I’m currently learning Python for Data Science and Machine Learning. in efforts to become an accomplished Data Scientist.  I’m an open minded individual who is more than ready to learn and collaborate with other professionals in the data career space. 
+
+Skills: Python / JupyterNotebooks/ R / MySQL
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+Connect with me on X @igottobegreat
   [![Ogeto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogetoondicho)](https://github.com/ogetoondicho/github-readme-stats)
 
 <!---
