@@ -5,7 +5,7 @@
 
 - I am a Statistician and Data Analyst who is passionate at deriving meaningful insights from data to solve challenges. I’m currently learning Python for Data Science and Machine Learning. in efforts to become an accomplished Data Scientist.  I’m an open minded individual who is more than ready to learn and collaborate with other professionals in the data career space. 
 
-Skills: Python / JupyterNotebooks/ R / MySQL
+Skills: Excel/ Python / JupyterNotebooks/ R / MySQL
 
 - 🔭 I’m currently working on this page. 
 
@@ -15,5 +15,5 @@ Skills: Python / JupyterNotebooks/ R / MySQL
 
 <!---
 OgetoOndicho/OgetoOndicho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes
 --->
