@@ -1,10 +1,10 @@
 # Hi there 👋, Welcome to my Github Profile
-I'm Gifton Ondicho Ogeto. An accomplished Statistician and a pasionate Data Scientist with a deep flair for numbers, data and tech.
+I'm Gifton Ondicho Ogeto. A pasionate Data Scientist with a deep flair for numbers, data and tech.
 
 ## About Me
-- I am a Data Scientist with a strong background in Statistics, Data Analytics, Machine Learning and Cloud Computing. I can derive insights from raw data to drive innovative solutions and decision making processes to solve challenges.  
+- I am a Data Scientist with a strong background in Statistics, Data Analytics, Machine Learning and Cloud Computing. I thrive in leveraging my technical expertise to derive insights from raw data thereby driving innovative solutions and informed decision making processes to complex challenges.  
 
-## Tech Stack
+## Tech Stack Skills
 1. Python
 2. MySQL
 3. PowerBI
