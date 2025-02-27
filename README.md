@@ -1,19 +1,22 @@
-### Hi there 👋, my name is Gifton Ondicho Ogeto
+# Hi there 👋, Welcome to my Github Profile
+I'm Gifton Ondicho Ogeto. An accomplished Statistician and a pasionate Data Scientist with a deep flair for numbers, data and tech.
 
-#### I am a Statistician and a Data Scientist
-![I am a Statistician and a Data Scientist](https://pbs.twimg.com/profile_banners/842702900560322560/1724741531/600x200)
+## About Me
+- I am a Data Scientist with a strong background in Statistics, Data Analytics, Machine Learning and Cloud Computing. I can derive insights from raw data to drive innovative solutions and decision making processes to solve challenges.  
 
-- I am a Statistician and Data Analyst who is passionate at deriving meaningful insights from data to solve challenges. I’m currently learning Python for Data Science and Machine Learning. in efforts to become an accomplished Data Scientist.  I’m an open minded individual who is more than ready to learn and collaborate with other professionals in the data career space. 
+## Tech Stack
+1. Python
+2. MySQL
+3. PowerBI
+4. Tableau
+5. R-Studio
 
-Skills: Excel/ Python / JupyterNotebooks/ R / MySQL
+## Let's Connect
+I’m an open minded individual who is more than ready to learn and collaborate with other professionals in the data science career space. I am constantly seeking new opportunities to expand my expertise and capabilities. Whether its about discussing ideas, developing new projects or brainstorming solutions to challenges do not hesitate to reach out.
 
-- 🔭 I’m currently working on this page. 
+## Get In Touch
+- Email: ** ogetoondichoa017@gmail.com **
+- Twitter: ** https://x.com/igottobegreat
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/OgetoOndicho)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/igottobegreat) 
+Thank you all for dropping by. Feel free to view my work and reach out in matters data science, machine learning and cloud. Let us innovate better!
 
-  [![Ogeto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogetoondicho)](https://github.com/ogetoondicho/github-readme-stats)
-
-<!---
-OgetoOndicho/OgetoOndicho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes
---->
