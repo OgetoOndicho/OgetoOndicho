@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=3000&color=00FF00&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I+love+coding!">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=3000&color=00FF00&center=true&vCenter=true&lines= Hello+there;Welcome+to+my+GitHub!;My+name+is+Ogeto;I+am+a+Data+Analyst:I+love+finding+insi!">
 </h1>
 
 # Hi there 👋, Welcome to my Github Profile
