@@ -1,12 +1,8 @@
-<h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=3000&color=00FF00&center=true&vCenter=true&lines= Hello+there;Welcome+to+my+GitHub!;My+name+is+Ogeto;I+am+a+Data+Analyst:I+love+finding+insi!">
-</h1>
-
 # Hi there 👋, Welcome to my Github Profile
 I'm Gifton Ondicho Ogeto. A pasionate Data Scientist with a deep flair for numbers, data and tech.
 
 ## About Me
-- I am a Data Analyst and an aspiring Machine Learning Engineer. My expertise is grounded from a solid foundation in Statistics, Math and Tech. I thrive in leveraging my technical expertise to derive insights from raw data thereby driving innovative solutions and informed decision making processes to complex challenges.
+- I am a Data Analyst and an aspiring Machine Learning Engineer. My expertise is grounded with  a solid foundation in Statistics, Math and Tech. I thrive in leveraging my technical skills to derive insights from raw data hence deriving innovative solutions to foster informed decision making processes to daily life challenges.
 
 ## Tech Stack Skills
 1. Python
