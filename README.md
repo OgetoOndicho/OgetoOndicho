@@ -2,7 +2,7 @@
 I'm Gifton Ondicho Ogeto. A pasionate Data Scientist with a deep flair for numbers, data and tech.
 
 ## About Me
-- I am a Data Scientist with a strong background in Statistics, Data Analytics, Machine Learning and Cloud Computing. I thrive in leveraging my technical expertise to derive insights from raw data thereby driving innovative solutions and informed decision making processes to complex challenges.  
+- I am a Data Analyst and an aspiring Machine Learning Engineer. My expertise is grounded from a solid foundation in Statistics, Math and Tech. I thrive in leveraging my technical expertise to derive insights from raw data thereby driving innovative solutions and informed decision making processes to complex challenges.  
 
 ## Tech Stack Skills
 1. Python
@@ -10,6 +10,7 @@ I'm Gifton Ondicho Ogeto. A pasionate Data Scientist with a deep flair for numbe
 3. PowerBI
 4. Tableau
 5. R-Studio
+6. MS Excel
 
 ## Let's Connect
 I’m an open minded individual who is more than ready to learn and collaborate with other professionals in the data science career space. I am constantly seeking new opportunities to expand my expertise and capabilities. Whether its about discussing ideas, developing new projects or brainstorming solutions to challenges do not hesitate to reach out.
