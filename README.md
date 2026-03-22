@@ -1,4 +1,4 @@
-# Hi there 👋, Welcome to my Github Profile
+# Hello there 👋, Welcome to my Github Profile
 I'm Gifton Ondicho Ogeto. A pasionate Data Scientist with a deep flair for numbers, data and tech.
 
 ## About Me
