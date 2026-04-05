@@ -1,5 +1,5 @@
 # ☀️ Welcome to my Github Profile ☀️
-👋 Hi, I'm Ogeto Ondicho. A pasionate Data Scientist with a deep flair for numbers, data and tech.
+👋 Hi, I'm Ogeto Ondicho, a Data Scientist with a deep flair for numbers, data and tech.
 
 ## 🌟 What I do
 I am a Data Analyst and an aspiring Machine Learning Engineer. My expertise is grounded in a solid foundation in Statistics, Math and Tech. I thrive in leveraging my technical skills to derive insights from raw data hence deriving innovative solutions to foster informed decision making processes to challenges facing organizations and humanity at large.
