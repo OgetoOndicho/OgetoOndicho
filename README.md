@@ -13,6 +13,7 @@ I am open to opportunities and collaborations in the Data Science spectrum. Whet
 4. Tableau
 5. R-Studio
 6. Google/Excel spreadsheets
+7. Git and GitHub
 
 ## 🔗 Let's Connect
 Feel free to reach out.
