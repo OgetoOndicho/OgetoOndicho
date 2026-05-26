@@ -7,13 +7,13 @@ I am a seasoned Data Analyst / Data Scientist and an aspiring Machine Learning E
 I am open to opportunities and collaborations in the Data Science spectrum. Whether it is bout brainstorming ideas, contributing solutions or exploring data to building models and dashboards projects, I more than ready to be involved.
 
 ## 🧠 Tech Stack Skills
-1. Python
-2. MySQL
-3. PowerBI
-4. Tableau
-5. R-Studio
-6. Google/Excel spreadsheets
-7. Git and GitHub
+1. Python.
+2. MySQL.
+3. PowerBI.
+4. Tableau.
+5. R-Studio.
+6. Google/Excel spreadsheets.
+7. Git and GitHub.
 
 ## 🔗 Let's Connect
 Feel free to reach out.
